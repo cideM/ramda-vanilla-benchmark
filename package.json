@@ -1,0 +1,27 @@
+{
+  "name": "ramda-vanilla-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cideM/ramda-vanilla-benchmark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cideM/ramda-vanilla-benchmark/issues"
+  },
+  "homepage": "https://github.com/cideM/ramda-vanilla-benchmark#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
